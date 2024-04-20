@@ -1,0 +1,223 @@
+1 AGRA
+Agra, India - City of the Taj Mahal:
+Taj Mahal: White marble mausoleum and UNESCO World Heritage Site.
+Agra Fort: Historic fort with stunning architecture.
+Fatehpur Sikri: Ghost city with well-preserved Mughal architecture.
+
+2 BANGKOK
+Bangkok, Thailand - Urban Buzz and Temples Galore:
+The Grand Palace and Wat Arun showcase Bangkok's architectural grandeur.
+Street markets, vibrant nightlife, and bustling street life contribute to the city's energetic atmosphere.
+
+
+3 BEJING
+Beijing, China - Ancient Capital and Modern Marvel:
+The Forbidden City, a majestic imperial palace, stands as a testament to China's dynastic past.
+The modern skyline, with landmarks like the Bird's Nest and CCTV Headquarters, reflects Beijing's contemporary ambitions.
+
+
+4 BERLIN
+Berlin, Germany - Cultural Fusion and Historical Resilience:
+The Berlin Wall remnants and Checkpoint Charlie evoke the city's Cold War history.
+Museumsinsel (Museum Island) is a cultural haven with world-class art and archaeological treasures.
+
+
+5 CAIRO
+Cairo, Egypt - Gateway to the Pyramids:
+Giza Pyramids: Ancient wonders on the outskirts of Cairo.
+Khan El Khalili: Vibrant bazaar with traditional crafts.
+Egyptian Museum: Home to an extensive collection of ancient artifacts.
+
+6 CAPE TOWN
+Cape Town, South Africa - Where Oceans Meet Mountains:
+Table Mountain provides a stunning backdrop to the city's diverse neighborhoods.
+The Cape of Good Hope and Boulders Beach, home to penguins, showcase the city's natural wonders.
+
+
+7 COPENHAGEN
+Copenhagen, Denmark - Nordic Elegance and Biking Culture:
+The Little Mermaid statue and Nyhavn's colorful waterfront capture the city's charm.
+Extensive biking lanes and a commitment to sustainability define Copenhagen's urban lifestyle.
+
+
+8 DUBAI
+Dubai, UAE - Oasis of Opulence and Modernity:
+Burj Khalifa: Tallest building in the world.
+Palm Jumeirah: Artificial archipelago with luxury resorts.
+
+
+9 DUBROVNIK
+Dubrovnik, Croatia - Adriatic Gem and Medieval Marvel:
+The well-preserved city walls and historic Old Town transport visitors to the Middle Ages.
+Dubrovnik's coastal beauty, seen from Fort Lovrijenac, adds to its allure.
+
+
+10 EDINBURGH
+Edinburgh, Scotland - Castle Majesty and Literary Legacy:
+Edinburgh Castle perched on Castle Rock offers panoramic views of the city.
+The Royal Mile, lined with bookshops and pubs, celebrates the city's literary history.
+
+
+11 FLORENCE
+Florence, Italy - Renaissance Artistry and Architectural Splendor:
+The Florence Cathedral (Duomo) and Uffizi Gallery are jewels of Renaissance art and architecture.
+Ponte Vecchio, a medieval bridge over the Arno River, adds to the city's romantic allure.
+
+
+12 HANOI
+Hanoi, Vietnam - Ancient Charm and French Colonial Legacy:
+Ho Chi Minh Mausoleum and the Old Quarter reflect Hanoi's rich history.
+French colonial architecture, including the Hanoi Opera House, adds a touch of elegance.
+
+
+13 HAVANA
+Havana, Cuba - Colonial Splendor and Timeless Rhythms:
+Old Havana's colonial architecture and vintage cars evoke a bygone era.
+The lively Malecon, with its music and dance, reflects Havana's enduring spirit.
+
+
+14 ISTANBUL
+Istanbul, Turkey - Former Capital of Byzantine Empire:
+Hagia Sophia: Majestic mosque-turned-museum showcasing diverse architectural styles.
+Blue Mosque: Iconic Ottoman mosque with intricate tilework.
+Topkapi Palace: Former palace of Ottoman sultans.
+
+15 JERUSALEM
+Jerusalem, Israel - Holy City and Cultural Crossroads:
+The Western Wall and Dome of the Rock are sacred sites for Judaism and Islam.
+The Old City's narrow streets harbor historical treasures from various periods.
+
+
+16 KYIV
+Kyiv, Ukraine - Eastern European Elegance and Historical Significance:
+Saint Sophia's Cathedral and Kyiv Pechersk Lavra showcase the city's Orthodox heritage.
+Independence Square (Maidan Nezalezhnosti) represents the city's modern history and resilience.
+
+
+17 KYOTO
+Kyoto, Japan - Cultural Heart with Traditional Charms:
+Kinkaku-ji (Golden Pavilion): Zen Buddhist temple covered in gold leaf.
+Fushimi Inari Shrine: Famous for its thousands of red torii gates.
+Gion District: Historic area known for geishas and traditional tea houses.
+
+18 LISBON
+Lisbon, Portugal - Fado Music and Maritime Charm:
+The historic Belem Tower and Jeronimos Monastery showcase Lisbon's maritime heritage.
+Alfama, the oldest district, resonates with the melancholic tunes of Fado music.
+
+
+19 MARRAKECH
+Marrakech, Morocco - Red City of Souks and Palaces:
+Jemaa el-Fnaa: Bustling square with street performers and markets.
+Bahia Palace: Opulent palace with stunning gardens.
+Medina of Marrakech: Labyrinthine old town with vibrant souks.
+
+20 MEXICO CITY
+Mexico City, Mexico - Aztec Roots and Metropolitan Energy:
+The ancient city of Teotihuacan, with its pyramids, is a short distance away.
+Chapultepec Park, home to museums and the presidential palace, offers a respite in the bustling metropolis.
+
+
+21 MUMBAI
+Mumbai, India - Bollywood Glamour and Gateway to India:
+The Gateway of India and Chhatrapati Shivaji Maharaj Terminus are iconic landmarks.
+Bollywood, centered in Mumbai, adds a vibrant and cinematic dimension to the city's culture.
+
+
+22 NAIROBI
+Nairobi, Kenya - Safari Hub and Urban Oasis:
+Nairobi National Park, with wildlife roaming against a city backdrop, is unique.
+Karura Forest offers an urban escape with waterfalls, caves, and diverse flora.
+
+
+23 OSAKA
+Osaka, Japan - Culinary Delights and Modern Innovations:
+Osaka Castle, surrounded by cherry blossoms, stands as a symbol of the city's history.
+Dotonbori district is a gastronomic paradise, offering street food and fine dining.
+
+
+24 PARIS
+Paris, France - City of Art and Romance:
+Eiffel Tower: Iconic symbol and panoramic viewpoint.
+Louvre Museum: Home to the Mona Lisa and countless masterpieces.
+Montmartre: Bohemian district known for its artistic history.
+
+25 PRAGUE
+Prague, Czech Republic - City of a Hundred Spires:
+Prague Castle: Historic castle complex overlooking the city.
+Charles Bridge: Iconic bridge adorned with statues.
+Old Town Square: Center of historic architecture and events.
+
+26 REYKJAVIK
+Reykjavik, Iceland - Geothermal Wonders and Nordic Quirkiness:
+Hallgrímskirkja, a modernist church, dominates the skyline with its unique architecture.
+The Blue Lagoon and nearby geysers showcase Iceland's natural wonders.
+
+
+27 RIO DE JANERIO
+Rio de Janeiro, Brazil - Marvelous City with Natural Beauty:
+Christ the Redeemer: Iconic statue atop Corcovado Mountain.
+Copacabana Beach: Famous stretch of golden sand.
+Sugarloaf Mountain: Cable car for panoramic views of the city.
+
+28 ROME
+Rome, Italy - Eternal City of Rich History:
+Colosseum: Ancient amphitheater and symbol of Roman engineering.
+Roman Forum: Ruins of ancient governmental and commercial center.
+Pantheon: A well-preserved temple dedicated to the Roman gods.
+
+29 SAINT PETERSBURG
+Saint Petersburg, Russia - Imperial Splendor and Cultural Extravaganza:
+The State Hermitage Museum, housed in the Winter Palace, is a treasure trove of art.
+The Church of the Savior on Spilled Blood and Nevsky Prospect embody the city's grandeur.
+
+
+30 SEOUL
+Seoul, South Korea - Technological Hub and Traditional Charms:
+The ancient Gyeongbokgung Palace contrasts with the futuristic Dongdaemun Design Plaza.
+Bukchon Hanok Village preserves traditional Korean architecture amidst urban development.
+
+
+31 SINGAPORE
+Singapore - Garden City with Urban Sophistication:
+Gardens by the Bay: Futuristic park with iconic Supertrees.
+Marina Bay Sands: Integrated resort with a rooftop infinity pool.
+Sentosa Island: Leisure and entertainment island with diverse attractions.
+your total expense in USD is 970$
+32 STOKHOLM
+Stockholm, Sweden - Archipelago Beauty and Scandinavian Chic:
+The Stockholm Archipelago comprises thousands of islands, each with its own charm.
+Gamla Stan (Old Town) features cobblestone streets and colorful buildings, preserving the city's medieval character.
+
+
+33 SYDNEY
+Sydney, Australia - Harbor City with Iconic Landmarks:
+Sydney Opera House: Architectural masterpiece on the harbor.
+Sydney Harbour Bridge: Iconic bridge with stunning views.
+Bondi Beach: Famous for surfing and coastal walks.
+
+34 TOKYO
+Tokyo, Japan - Modern Metropolis with Traditional Touch:
+Shibuya Crossing: World's busiest pedestrian crossing.
+Meiji Shrine: Tranquil Shinto shrine surrounded by lush forest.
+Tokyo Tower: Iconic landmark offering city views.
+
+35 TORONTO
+Toronto, Canada - Multicultural Metropolis and Towering Views:
+The CN Tower defines Toronto's skyline and offers breathtaking panoramic views.
+Distillery District and Kensington Market showcase the city's cultural diversity.
+
+
+36 VEINNA
+Vienna, Austria - City of Music and Imperial Splendor:
+Vienna State Opera: Renowned for classical performances.
+Schönbrunn Palace: Imperial summer residence with expansive gardens.
+St. Stephen's Cathedral: Gothic masterpiece in the heart of the city.
+
+37 ZURICH
+Zurich, Switzerland - Banking Hub and Alpine Tranquility:
+The Old Town's narrow lanes contrast with the modernity of Bahnhofstrasse.
+Lake Zurich and nearby mountains provide a picturesque backdrop to the city.
+
+
+

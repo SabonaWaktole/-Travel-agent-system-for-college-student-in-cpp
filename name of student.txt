@@ -1,0 +1,10 @@
+ Travel agent system
+
+ section 11
+
+ NAME OF STUDENTS        ID number
+1 SABONA WAKTOLE          UGR/31165/15
+2 ABDI BIRHANU            UGR/30014/15
+3 ABENEZER TERFE          UGR/30081/15
+4 YOSEPH TEFERI           UGR/31460/15
+5 YEABSIRA LJALEM         UGR/31392/15
