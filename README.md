@@ -1,3 +1,3 @@
-This is simple cpp project for college student based on object oriented paradiagm 
-it consists of almost all cpp concept like data structure in cpp
+This is a simple CPP project for college students based on an object-oriented paradigm 
+it consists of almost all CPP concepts like data structure in CPP,
 object and class 
